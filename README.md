@@ -5,26 +5,25 @@ Inspiration and code snippets from [Adrian Rosebrock's articles](https://www.pyi
 
 ## Example
 Input image:  
-![test_photo1](https://user-images.githubusercontent.com/50077908/83337979-cd7f9380-a28d-11ea-80fa-0401618e2cb8.jpg)
+![test_photo1 copy](https://user-images.githubusercontent.com/50077908/83338066-8a71f000-a28e-11ea-8836-a93e694b923c.jpg)
 
 Output image:  
 ![output_maskify](https://user-images.githubusercontent.com/50077908/83337623-31ed2380-a28b-11ea-9151-c11c1d82a2b8.png)
 
 Input image:  
-![test_photo2](https://user-images.githubusercontent.com/50077908/83337892-27338e00-a28d-11ea-972b-2097634c1d9c.jpg)
+![test_photo2 copy](https://user-images.githubusercontent.com/50077908/83338067-8a71f000-a28e-11ea-8001-0b5154a32b3c.jpg)
 
 Output image:  
 ![test_output2](https://user-images.githubusercontent.com/50077908/83337952-927d6000-a28d-11ea-8069-5e831e1550ae.png)
 
 Input image:  
-![test_photo3](https://user-images.githubusercontent.com/50077908/83337893-27338e00-a28d-11ea-9c6a-ef27e4dbba70.jpg)
-
+![test_photo3 copy](https://user-images.githubusercontent.com/50077908/83338068-8a71f000-a28e-11ea-96e2-c728e43d9baa.jpg)
 
 Output image:  
 ![test_output3](https://user-images.githubusercontent.com/50077908/83337951-914c3300-a28d-11ea-8047-24d9ae0e6f93.png)
 
 Input image:  
-![test_photo4](https://user-images.githubusercontent.com/50077908/83337894-27338e00-a28d-11ea-943e-b95a455414e2.jpg)
+![test_photo4 copy](https://user-images.githubusercontent.com/50077908/83338069-8b0a8680-a28e-11ea-914c-d7394e62f355.jpg)
 
 Output image:  
 ![test_output4](https://user-images.githubusercontent.com/50077908/83337950-90b39c80-a28d-11ea-88a9-4f23bb6e5228.png)
