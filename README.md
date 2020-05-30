@@ -8,7 +8,7 @@ Input image:
 ![photo14](https://user-images.githubusercontent.com/50077908/83337605-ff432b00-a28a-11ea-9441-624c1c9b70fd.jpg)
 
 Output image:  
-
+![output_maskify](https://user-images.githubusercontent.com/50077908/83337623-31ed2380-a28b-11ea-9151-c11c1d82a2b8.png)
 
 ### Getting Started
 Maskify requires the [OpenCV](https://github.com/opencv/opencv) and [dlib](https://github.com/davisking/dlib) libraries. It also uses [imutils](https://github.com/jrosebr1/imutils) for helper functions and Pillow for basic image editing.  
@@ -19,3 +19,5 @@ Specify the image path using the --image argument. For example:
 ```
 python maskify.py --image images/test_photo1.jpg
 ```
+Test photos are included in the test_images folder.  
+
