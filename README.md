@@ -5,6 +5,7 @@ Inspiration and code snippets from [Adrian Rosebrock's articles](https://www.pyi
 
 ### Example
 Input image:  
+![photo14](https://user-images.githubusercontent.com/50077908/83337605-ff432b00-a28a-11ea-9441-624c1c9b70fd.jpg)
 
 Output image:  
 
