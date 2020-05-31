@@ -39,3 +39,12 @@ python maskify.py --image test_images/test_photo1.jpg
 ```
 All photos used in the examples are included in the test_images folder.  
 
+## Landmarks
+The 68-point facial landmarks predictor from dlib maps each face according to the following points:  
+![landmarks_68](https://user-images.githubusercontent.com/50077908/83354567-82b25a00-a327-11ea-8645-3c5a5689f647.jpg)  
+
+Maskify calculates the dimensions for the pasted mask image using the Euclidean distance between points 2 and 16 for the width and the Euclidean distance between points 29 and 9 for the height. Originally, only the height was calculated in this way and then the mask was proportionately scaled to maintain its original aspect ratio, but allowing for flexible resizing proved to look more natural.  
+![maskify_landmark_dimensions](https://user-images.githubusercontent.com/50077908/83354566-8219c380-a327-11ea-8c9f-41108123d65a.jpg)  
+
+The angle of head tilt is calculated by comparing the coordinates of the outermost points of the eyes.  
+![landmarks_tilt](https://user-images.githubusercontent.com/50077908/83354565-8219c380-a327-11ea-9326-cff07897bdb5.jpg)  
